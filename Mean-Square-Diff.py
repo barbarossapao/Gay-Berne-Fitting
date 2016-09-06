@@ -1,3 +1,3 @@
-def Min_Sqr_Diff
+def Mean_Sqr_Diff
 
 
