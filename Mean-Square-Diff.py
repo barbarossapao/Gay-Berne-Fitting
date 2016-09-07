@@ -1,3 +1,3 @@
-def compute(epsilon,sigma,Sa,Sb,Sc,eia,eib,eic,nu,mu,gamma)
+def compute(shape_1,shape_2,GB_coeff)
 
 
