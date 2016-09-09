@@ -1,3 +1,13 @@
-def compute(AMD_data,shape_1,shape_2,GB_coeff)
+def Mean-Sqr-Compute(x):
+
+
+    psi = #mean square difference computed
+    return psi
+   
+
+
+
+
+
 
 
