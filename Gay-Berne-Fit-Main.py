@@ -41,4 +41,6 @@ for i in range(len(GB_coeff)):
 psi = 0.0 # value of mean square difference
 psi =  Mean-Sqr-compute(parameter)
 
+print psi # for testing
+
 
